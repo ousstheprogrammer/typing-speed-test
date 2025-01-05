@@ -1,2 +1,4 @@
-# typing-speed-test
-a project created by ouss zouini 
+# typingSpeedTest
+Test your typing speed and accuracy.
+
+Try it here: https://mwynwood.github.io/typingSpeedTest/index.html
